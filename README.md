@@ -1,0 +1,2 @@
+# kArrmasXSSstrick
+xss vulnerability exploits 
